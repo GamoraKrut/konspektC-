@@ -49,3 +49,13 @@ Console.Clear() - очищает консоль терминала
 return ЗначениеСоответствующееВозвращаемомуТипуДанных;
 
 }
+
+* Пример:
+
+'''C#
+double f(double x)
+{
+double result = x * x + 1;
+return result
+}
+'''
