@@ -59,3 +59,10 @@ double result = x * x + 1;
 return result
 }
 ```
+
+* Пример массива:
+
+```csharp
+int[] array = {1, 2, 3, 4, 5, 6,};
+```
+array - метод для массива
