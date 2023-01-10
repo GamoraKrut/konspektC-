@@ -66,3 +66,15 @@ return result
 int[] array = {1, 2, 3, 4, 5, 6,};
 ```
 array - метод для массива
+
+
+```csharp
+string name = "Artur";
+int age = 24;
+double height = 1.7;
+Console.WriteLine($"Name: {name} Age: {age} Height: {heiht}");
+```
+На выводе будет:
+
+*Name: Artur Age: 24 Height: 1.7*
+
