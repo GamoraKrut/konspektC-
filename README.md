@@ -150,3 +150,16 @@ string Method4(int count, string text)
 string res = Method4(10, "a ");
 Console.WriteLine(res);
 ```
+## Цикл в цикле
+* Пример
+```csharp
+for (int i = 2; i <=10; i++)
+{
+    for (int j = 2; j <= 10; j++)
+    {
+         Console.WriteLine($"{i} x {j} = {i * j}");
+    }
+    Console.Writeline();
+}
+```
+
