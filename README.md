@@ -145,7 +145,7 @@ string Method4(int count, string text)
     {
         result = result + text;
     }
-    return result
+    return result;
 }
 string res = Method4(10, "a ");
 Console.WriteLine(res);
