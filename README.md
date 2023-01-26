@@ -241,7 +241,7 @@ PrintArray(arr);
 SelectionSort(arr);
 PrintArray(arr);
 ```
-#Двумерные массивы
+# Двумерные массивы
 ```csharp
 Console.Clear();
 
